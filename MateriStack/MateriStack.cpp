@@ -7,7 +7,7 @@ private:
 	string stack_array[5];
 	int top;
 public:
-	
+	//constructor
 	StackArray() {
 		top = -1;
 	}
