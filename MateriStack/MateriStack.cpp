@@ -37,7 +37,7 @@ public:
 	}
 
 	
-	bool empty() {
+	bool empty() {												//method empty
 		return (top == -1);
 	}
 
