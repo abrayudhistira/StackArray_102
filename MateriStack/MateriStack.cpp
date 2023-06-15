@@ -53,7 +53,7 @@ public:
 	}
 };
 
-int main() {
+int main() {													//main program
 	StackArray s;
 	while (true) {
 		cout << "\n###Stack Menu###\n";
